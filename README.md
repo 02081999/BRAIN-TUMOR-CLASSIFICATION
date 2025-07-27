@@ -32,26 +32,26 @@ The dataset used for training and validation includes MRI brain scans categorize
 - **Language**: Python 3.10
 - 
 - **Libraries**:
-- 
+  
   - `TensorFlow`, `Keras` – model training & transfer learning
-  - 
+  
   - `NumPy`, `Pandas`, `Matplotlib`, `Seaborn` – data manipulation & visualization
-  - 
+   
   - `Streamlit` – web app development
-  - 
+   
   - `PIL` – image preprocessing
  
-  - 
+    
 - **Models**:
-- 
+
   - Custom CNN
-  - 
+  
   - MobileNetV2
  
   - InceptionV3
-  - 
+    
   - ResNet50
-  - 
+    
   - EfficientNetB0
 
 ---
